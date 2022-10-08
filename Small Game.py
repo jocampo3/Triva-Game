@@ -37,4 +37,4 @@ print('Thank you for playing, you got ', score, " questions correct. ")
 Mark = (score/total_q) * 100
 
 print("Mark: ", Mark)
-print ('Goodbye')
+print ('Have a great day!"
